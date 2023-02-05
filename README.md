@@ -11,9 +11,9 @@ Highly analytical and detail-oriented Master of Analytics graduate with experien
 **Code:** [`Final Python_ALY6140_group5.ipynb`](https://github.com/fatishi/My_Portfolio/blob/main/Analytics%20System%20Technology/Final%20Python_ALY6140_group5.ipynb)
 
 **Description:** A group project that I did with my teammate (Min-Chi Tsai) based on the real-data obtained from the Chicago Data Portal. The goal of the project is to help Chicago Police Department to predict the traffic crash type and understand the causes that lead to it. We are wondering if there are similar or common patterns that might help to predict the traffic crash. The main question we intended to answer in this analysis is “What factors affect the severity of the traffic crash type?”. 
-• Performed EDA and cleaning of data with 605,120 records as of May, 2022 obtained from the Chicago Data Portal
-• Pre-processed data: reducing feature cardinality, feature engineering, splitting, and scaling for ML models creation
-• Built 3 ML models: logistic regression, random forest, and XGBoost to predict influential factors on traffic crashes in 2022
+* Performed EDA and cleaning of data with 605,120 records as of May, 2022 obtained from the Chicago Data Portal
+* Pre-processed data: reducing feature cardinality, feature engineering, splitting, and scaling for ML models creation
+* Built 3 ML models: logistic regression, random forest, and XGBoost to predict influential factors on traffic crashes in 2022
 
 
 This [folder](https://github.com/fatishi/My_Portfolio/tree/main/Intermediate%20Analytics) contains my project I did in Intermediate Analytics class.
