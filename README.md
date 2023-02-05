@@ -21,6 +21,6 @@ Highly analytical and detail-oriented Master of Analytics graduate with experien
 
 **Technology:** Python: Pandas, Numpy, Matplotlib, Seaborn, Datetime, Sklearn, Statsmodels, Xgboost
 
-![](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/Analytics%20System%20Technology/images/Models%20Comparison.png)
+![](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/Analytics%20System%20Technology/images/Models%20Comparison.jpg)
 
 
