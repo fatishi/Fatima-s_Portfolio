@@ -25,8 +25,8 @@ Highly analytical and detail-oriented Master of Analytics graduate with experien
 
 ## [Bike Sharing Analysis - Tableau](https://github.com/fatishi/Fatima-s_Portfolio/tree/main/Data%20Visualization/Tableau/Bike%20Sharing%20Analysis)
 
-- **Code file:** [`Final Tableau Dashb_ALY6070_Group 7.twbx`](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/Data%20Visualization/Tableau/Bike%20Sharing%20Analysis/Final%20Tableau%20Dashb_ALY6070_Group%207.twbx)
 - **Dashboards:** [`Tableau`](https://public.tableau.com/app/profile/yu.qiu7993/viz/BikeSharingAnalysis_16488700518180/Dashboard1)
+- **Code file:** [`Final Tableau Dashb_ALY6070_Group 7.twbx`](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/Data%20Visualization/Tableau/Bike%20Sharing%20Analysis/Final%20Tableau%20Dashb_ALY6070_Group%207.twbx)
 - **Project Report:** [`Final Report_ALY6070_Group 7.pdf`](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/Data%20Visualization/Tableau/Bike%20Sharing%20Analysis/Final%20Report_ALY6070_Group%207.pdf)
 - **Presentation Slides:** [`Final PPT_ALY6070_Group 7.pdf`](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/Data%20Visualization/Tableau/Bike%20Sharing%20Analysis/Final%20PPT_ALY6070_Group%207.pdf)
 
