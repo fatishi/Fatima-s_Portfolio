@@ -19,5 +19,5 @@ Highly analytical and detail-oriented Master of Analytics graduate with experien
 • Built 3 ML models: logistic regression, random forest, and XGBoost to predict influential factors on traffic crashes in 2022
 
 
-This [folder](https://github.com/fatishi/My_Portfolio/tree/main/Intermediate%20Analytics) contains my project I did in Intermediate Analytics class 
+This [folder](https://github.com/fatishi/My_Portfolio/tree/main/Intermediate%20Analytics) contains my project I did in Intermediate Analytics class.
 
