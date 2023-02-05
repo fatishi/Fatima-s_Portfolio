@@ -9,7 +9,9 @@ Highly analytical and detail-oriented Master of Analytics graduate with experien
 ## [Predicting Causes for Chicago Traffic Crashes](https://github.com/fatishi/My_Portfolio/tree/main/Analytics%20System%20Technology)
 
 **Code:** [`Final Python_ALY6140_group5.ipynb`](https://github.com/fatishi/My_Portfolio/blob/main/Analytics%20System%20Technology/Final%20Python_ALY6140_group5.ipynb)
+
 **Project Report:** [`Final Report_ALY6140_group5.pdf`](https://github.com/fatishi/My_Portfolio/blob/main/Analytics%20System%20Technology/Final%20Report_ALY6140_group5.pdf)
+
 **Presentation Slides:** [`Final PPT_ALY6140_group5.pdf`](https://github.com/fatishi/My_Portfolio/blob/main/Analytics%20System%20Technology/Final%20PPT_ALY6140_group5.pdf)
 
 **Description:** A group project that I did with my teammate (Min-Chi Tsai) based on the real-data obtained from the Chicago Data Portal. The goal of the project is to help Chicago Police Department to predict the traffic crash type and understand the causes that lead to it. We are wondering if there are similar or common patterns that might help to predict the traffic crash. The main question we intended to answer in this analysis is “What factors affect the severity of the traffic crash type?”. 
