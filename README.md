@@ -8,7 +8,7 @@ Highly analytical and detail-oriented Master of Analytics graduate with experien
 ## Projects
 ## [Predicting Causes for Chicago Traffic Crashes](https://github.com/fatishi/My_Portfolio/tree/main/Analytics%20System%20Technology)
 
-- **Code:** [`Final Python_ALY6140_group5.ipynb`](https://github.com/fatishi/My_Portfolio/blob/main/Analytics%20System%20Technology/Final%20Python_ALY6140_group5.ipynb)
+- **Code file:** [`Final Python_ALY6140_group5.ipynb`](https://github.com/fatishi/My_Portfolio/blob/main/Analytics%20System%20Technology/Final%20Python_ALY6140_group5.ipynb)
 - **Project Report:** [`Final Report_ALY6140_group5.pdf`](https://github.com/fatishi/My_Portfolio/blob/main/Analytics%20System%20Technology/Final%20Report_ALY6140_group5.pdf)
 - **Presentation Slides:** [`Final PPT_ALY6140_group5.pdf`](https://github.com/fatishi/My_Portfolio/blob/main/Analytics%20System%20Technology/Final%20PPT_ALY6140_group5.pdf)
 
@@ -18,6 +18,7 @@ Highly analytical and detail-oriented Master of Analytics graduate with experien
 * Built 3 ML models: logistic regression, random forest, and XGBoost to predict influential factors on traffic crashes in 2022
 
 **Skills:** Data Cleaning, Data Analysis, Descriptive Statistics, Visualization, Writing Functions, Feature Engineering, Predictive Modeling, Classification  
+
 **Technology:** Python: Pandas, Numpy, Matplotlib, Seaborn, Datetime, Sklearn, Statsmodels, Xgboost
 
 This [folder](https://github.com/fatishi/My_Portfolio/tree/main/Intermediate%20Analytics) contains my project I did in Intermediate Analytics class.
