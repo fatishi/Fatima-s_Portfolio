@@ -7,7 +7,7 @@ Highly analytical and detail-oriented Master of Analytics graduate with experien
 
 ## Projects
 ### [Predicting Causes for Chicago Traffic Crashes](https://github.com/fatishi/My_Portfolio/tree/main/Analytics%20System%20Technology)
-**Code:** > Final_Python_ALY6140_group5.ipynb
+**Code:** > 'Final_Python_ALY6140_group5.ipynb'
 
 **Code:** [Final Python_ALY6140_group5.ipynb](https://github.com/fatishi/My_Portfolio/blob/main/Analytics%20System%20Technology/Final%20Python_ALY6140_group5.ipynb)
 
