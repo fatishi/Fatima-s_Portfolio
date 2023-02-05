@@ -1,6 +1,6 @@
 # Fatima Nurmakhamadova - Data Analyst Portfolio 
 
-Hello! I am Fatima, and welcome to my DA portfolio! 
+Hello! I am Fatima, and welcome to my portfolio! 
 
 ## About Me
 Highly analytical and detail-oriented Master of Analytics graduate with experience in data management, big data, and machine learning. With technical skills in Python, SQL, R, and visualization tools such as Power BI, Tableau, and Qlik. Skilled in Machine Learning models such as Logistic Regression, Linear Regression, SVM, Tree-based models, NLP, KNN, and Neural Network. Proven ability to lead projects, work in a team, and solve problems effectively. Committed to delivering high-quality results and providing value to organizations through data-driven insights. Native in Russian, Kyrgyz and advanced in English, intermediate in Arabic, and Turkish.
@@ -21,5 +21,4 @@ Highly analytical and detail-oriented Master of Analytics graduate with experien
 
 **Technology:** Python: Pandas, Numpy, Matplotlib, Seaborn, Datetime, Sklearn, Statsmodels, Xgboost
 
-This [folder](https://github.com/fatishi/My_Portfolio/tree/main/Intermediate%20Analytics) contains my project I did in Intermediate Analytics class.
 
