@@ -5,8 +5,6 @@ Hello! I am Fatima, and welcome to my portfolio! 🚀
 ## About Me 🙋🏻‍♀️
 Highly analytical and detail-oriented Master of Analytics graduate with experience in data management, big data, and machine learning. With technical skills in Python, SQL, R, and visualization tools such as Power BI, Tableau, and Qlik. Skilled in Machine Learning models such as Logistic Regression, Linear Regression, SVM, Tree-based models, NLP, KNN, and Neural Network. Proven ability to lead projects, work in a team, and solve problems effectively. Committed to delivering high-quality results and providing value to organizations through data-driven insights. Native in Russian, Kyrgyz and advanced in English, intermediate in Arabic, and Turkish.
 
-![](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/Analytics%20System%20Technology/images/Profile%20Photo_Fatima%20Nurmakhamadova.jpeg)
-
 ## Projects 
 ## [Predicting Causes for Chicago Traffic Crashes (Classification)](https://github.com/fatishi/My_Portfolio/tree/main/Analytics%20System%20Technology)
 
