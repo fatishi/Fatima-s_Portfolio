@@ -6,7 +6,7 @@ Hello! I am Fatima, and welcome to my portfolio! 🚀
 Highly analytical and detail-oriented Master of Analytics graduate with experience in data management, big data, and machine learning. With technical skills in Python, SQL, R, and visualization tools such as Power BI, Tableau, and Qlik. Skilled in Machine Learning models such as Logistic Regression, Linear Regression, SVM, Tree-based models, NLP, KNN, and Neural Network. Proven ability to lead projects, work in a team, and solve problems effectively. Committed to delivering high-quality results and providing value to organizations through data-driven insights. Native in Russian, Kyrgyz and advanced in English, intermediate in Arabic, and Turkish.
 
 ## Projects 
-## [Capstone Project: ](https://github.com/fatishi/Fatima-s_Portfolio/tree/main/Capstone%20Project)
+## [Capstone Project: Predicting Aftermath of Fraud on Board of Directors in US Companies (2017-2022)](https://github.com/fatishi/Fatima-s_Portfolio/tree/main/Capstone%20Project)
 
 - **Code file (my part):** [`Python_Capstone_Fatima`](https://github.com/fatishi/Fatima-s_Portfolio/tree/main/Capstone%20Project/Python_Capstone_Fatima)
 - **EDA Dashboards (my part):** [`EDA_PowerBI_Capstone_FatimaN.pdf`](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/Capstone%20Project/EDA_PowerBI_Capstone_FatimaN.pdf)
@@ -14,6 +14,7 @@ Highly analytical and detail-oriented Master of Analytics graduate with experien
 - **Project Report (group):** [`Report_Capstone_Group7.pdf`](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/Capstone%20Project/Report_Capstone_Group7.pdf)
 
 **Description:** A final capstone project sponsored by Free Float Media is an Empirical Study on Board Directors in US Companies (2017-2022) that I did with my teammates based on more than 10 data sets provided. The project goal is to analyze the structural aftermath of the director boards during their firms’ disclosed controversial events by predicting their likelihood of departure and finding the factors affecting it. The report covers various aspects of our research such as literature reviews, research methodologies and hypotheses, data analysis, modeling, and so on. The main question we intended to answer in this analysis is:
+
 *"How each characteristic of the individual director influences the departure when their companies involve controversial events?"*
 
 **What I did?**
