@@ -25,7 +25,7 @@ Highly analytical and detail-oriented Master of Analytics graduate with experien
 
 **Skills:** Hypotheses Testing, EDA, Data Cleaning, Data Transformation, Feature Engineering, Descriptive Analysis, Visualization, Writing Functions, Predictive Modeling, Classification  
 
-**Technology:** Power BI, Excel, Python: Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Statsmodels, Pycaret
+**Technology:** **Power BI, Excel, Python**: Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Statsmodels, Pycaret
 
 ![](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/Capstone%20Project/images/Pycaret_Capstone.jpg)
 
