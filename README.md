@@ -27,7 +27,7 @@ Highly analytical and detail-oriented Master of Analytics graduate with experien
 
 **Technology:** **Power BI, Excel, Python**: Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Statsmodels, Pycaret
 
-> TECHNOLOGY
+> **TECHNOLOGY**
 
 ![](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/Capstone%20Project/images/Pycaret_Capstone.jpg)
 
