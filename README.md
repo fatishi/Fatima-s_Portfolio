@@ -13,11 +13,11 @@ Highly analytical and detail-oriented Master of Analytics graduate with experien
 - **Presentation Slides (group):** [`PPT_Capstone_Group7.pdf`](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/Capstone%20Project/PPT_Capstone_Group7.pdf)
 - **Project Report (group):** [`Report_Capstone_Group7.pdf`](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/Capstone%20Project/Report_Capstone_Group7.pdf)
 
-> DESCRIPTION
+> **DESCRIPTION:**
 
 A final capstone project sponsored by Free Float Media is an Empirical Study on Board Directors in US Companies (2017-2022) that I did with my teammates based on more than 10 data sets provided. The project goal is to analyze the structural aftermath of the director boards during their firms’ disclosed controversial events by predicting their likelihood of departure and finding the factors affecting it. The report covers various aspects of our research such as literature reviews, research methodologies and hypotheses, data analysis, modeling, and so on. The main question we intended to answer in this analysis is:
 
-*"How each characteristic of the individual director influences the departure when their companies involve controversial events?"*
+> **Q:** *"How each characteristic of the individual director influences the departure when their companies involve controversial events?"*
 
 **What I did?**
 * Implemented the warehousing for 10 data sources & Created visualization dashboards on Power BI for Exploratory Data Analysis.
@@ -25,7 +25,9 @@ A final capstone project sponsored by Free Float Media is an Empirical Study on 
 * Applied machine learning models (Logistic Regression, Decision Tree, etc.) to predict the departure probability (accuracy:85%).
 * Implemented Automated machine learning process using Python PyCaret library for the best model among 14 possible.
 
-**Skills:** Hypotheses Testing, EDA, Data Cleaning, Data Transformation, Feature Engineering, Descriptive Analysis, Visualization, Writing Functions, Predictive Modeling, Classification  
+> **SKILLS:** 
+
+Hypotheses Testing, EDA, Data Cleaning, Data Transformation, Feature Engineering, Descriptive Analysis, Visualization, Writing Functions, Predictive Modeling, Classification  
 
 > **TECHNOLOGY:**
 
