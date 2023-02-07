@@ -29,6 +29,25 @@ Highly analytical and detail-oriented Master of Analytics graduate with experien
 
 ![](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/Capstone%20Project/images/Pycaret_Capstone.jpg)
 
+## [Market Basket Analysis for Online Retail Industry (Databricks)](https://github.com/fatishi/Market-Basket-Analysis-for-Online-Retail-Industry-by-Using-Databricks)
+
+- **Code file:** [`Final Databricks_ALY6110_GroupEpsilon.pdf`](https://github.com/fatishi/Market-Basket-Analysis-for-Online-Retail-Industry-by-Using-Databricks/blob/main/Using%20Market%20Basket%20Analysis%20to%20Improve%20Product%20Bundle%20Sales%20Strategy%20for%20Online%20Retail%20companies.ipynb)
+- **Project Report:** [`Final Report_ALY6110_GroupEpsilon.pdf`](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/Big%20Data%20Management/Final%20Report_ALY6110_GroupEpsilon.pdf)
+- **Presentation Slides:** [`Final PPT_ALY6110_GroupEpsilon.pdf`](https://github.com/fatishi/Market-Basket-Analysis-for-Online-Retail-Industry-by-Using-Databricks/blob/main/Instructions%20of%20how%20to%20use%20Databricks%20and%20the%20insights%20from%20the%20analysis.pdf)
+
+**Description:** A group project that I did with my teammates based on the data set from a UK-based online sales store. It contains records of more than 1 million transactions from January 12, 2009, to September 12, 2011. We created a Manual with instructions for doing data analysis, especially the Market Basket Analysis by using Apriori Algorithm for the retail industry. The purpose of this report is to help analysts who have no experience using the big data management tool – Databricks understand how to use it to tackle real big data. The main question we intended to answer in this analysis is *“How to create a better product bundle sales strategy for online retail companies by using Market Basket Analysis?”*. 
+
+* Conducted EDA and MBA with Apriori Algorithm using PySpark and SQL to study large transaction data with over 1 billion
+records of UK-based online retail companies.
+* Recommended better product bundle sales strategy to increase revenue based on insights of top-most sold product combinations.
+* Created a Manual of 50 pages with step-by-step instructions for doing data analysis on Databricks.
+
+**Skills:** Data Cleaning, EDA, Data Transformation, Visualization, Market Basket Analysis, Association Rule Learning
+
+**Technology:** Excel, Apache Spark, Databricks: Apriori Algorithm, PySpark, SQL
+
+![](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/Big%20Data%20Management/images/MBA_ProductBundle.jpg)
+
 ## [Predicting Causes for Chicago Traffic Crashes (Classification)](https://github.com/fatishi/My_Portfolio/tree/main/Analytics%20System%20Technology)
 
 - **Code file:** [`Final Python_ALY6140_group5.ipynb`](https://github.com/fatishi/My_Portfolio/blob/main/Analytics%20System%20Technology/Final%20Python_ALY6140_group5.ipynb)
