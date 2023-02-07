@@ -41,8 +41,12 @@ Hypotheses Testing, EDA, Data Cleaning, Data Transformation, Feature Engineering
 - **Project Report:** [`Final Report_ALY6110_GroupEpsilon.pdf`](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/Big%20Data%20Management/Final%20Report_ALY6110_GroupEpsilon.pdf)
 - **Presentation Slides:** [`Final PPT_ALY6110_GroupEpsilon.pdf`](https://github.com/fatishi/Market-Basket-Analysis-for-Online-Retail-Industry-by-Using-Databricks/blob/main/Instructions%20of%20how%20to%20use%20Databricks%20and%20the%20insights%20from%20the%20analysis.pdf)
 
-**Description:** A group project that I did with my teammates based on the data set from a UK-based online sales store. It contains records of more than 1 million transactions from January 12, 2009, to September 12, 2011. We created a Manual with instructions for doing data analysis, especially the Market Basket Analysis by using Apriori Algorithm for the retail industry. The purpose of this report is to help analysts who have no experience using the big data management tool – Databricks understand how to use it to tackle real big data. The main question we intended to answer in this analysis is *“How to create a better product bundle sales strategy for online retail companies by using Market Basket Analysis?”*. 
+**Description:** 
+A group project that I did with my teammates based on the data set from a UK-based online sales store. It contains records of more than 1 million transactions from January 12, 2009, to September 12, 2011. We created a Manual with instructions for doing data analysis, especially the Market Basket Analysis by using Apriori Algorithm for the retail industry. The purpose of this report is to help analysts who have no experience using the big data management tool – Databricks understand how to use it to tackle real big data. The main question we intended to answer in this analysis is:
 
+> *“How to create a better product bundle sales strategy for online retail companies by using Market Basket Analysis?”*. 
+
+**What I did?**
 * Conducted EDA and MBA with Apriori Algorithm using PySpark and SQL to study large transaction data with over 1 billion
 records of UK-based online retail companies.
 * Recommended better product bundle sales strategy to increase revenue based on insights of top-most sold product combinations.
