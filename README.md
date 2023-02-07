@@ -13,7 +13,9 @@ Highly analytical and detail-oriented Master of Analytics graduate with experien
 - **Presentation Slides (group):** [`PPT_Capstone_Group7.pdf`](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/Capstone%20Project/PPT_Capstone_Group7.pdf)
 - **Project Report (group):** [`Report_Capstone_Group7.pdf`](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/Capstone%20Project/Report_Capstone_Group7.pdf)
 
-**Description:** A final capstone project sponsored by Free Float Media is an Empirical Study on Board Directors in US Companies (2017-2022) that I did with my teammates based on more than 10 data sets provided. The project goal is to analyze the structural aftermath of the director boards during their firms’ disclosed controversial events by predicting their likelihood of departure and finding the factors affecting it. The report covers various aspects of our research such as literature reviews, research methodologies and hypotheses, data analysis, modeling, and so on. The main question we intended to answer in this analysis is:
+> DESCRIPTION
+> **Description**
+A final capstone project sponsored by Free Float Media is an Empirical Study on Board Directors in US Companies (2017-2022) that I did with my teammates based on more than 10 data sets provided. The project goal is to analyze the structural aftermath of the director boards during their firms’ disclosed controversial events by predicting their likelihood of departure and finding the factors affecting it. The report covers various aspects of our research such as literature reviews, research methodologies and hypotheses, data analysis, modeling, and so on. The main question we intended to answer in this analysis is:
 
 *"How each characteristic of the individual director influences the departure when their companies involve controversial events?"*
 
@@ -25,7 +27,7 @@ Highly analytical and detail-oriented Master of Analytics graduate with experien
 
 **Skills:** Hypotheses Testing, EDA, Data Cleaning, Data Transformation, Feature Engineering, Descriptive Analysis, Visualization, Writing Functions, Predictive Modeling, Classification  
 
-**Technology:** **Power BI, Excel, Python**: Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Statsmodels, Pycaret
+> **Technology:** **Power BI, Excel, Python**: Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Statsmodels, Pycaret
 
 > **TECHNOLOGY**
 
