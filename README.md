@@ -74,7 +74,7 @@ records of UK-based online retail companies.
 
 **Technology:** Python: Pandas, Numpy, Matplotlib, Seaborn, Datetime, Sklearn, Statsmodels, Xgboost
 
-![](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/docs/assets/Models_Comparison.jpg)
+![](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/docs/assets/images/Models_Comparison.jpg)
 
 ## [Bike Sharing Analysis - Tableau](https://github.com/fatishi/Fatima-s_Portfolio/tree/main/Data%20Visualization/Tableau/Bike%20Sharing%20Analysis)
 
