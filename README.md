@@ -35,6 +35,32 @@ Hypotheses Testing, EDA, Data Cleaning, Data Transformation, Feature Engineering
 
 ![](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/Capstone%20Project/images/Pycaret_Capstone.jpg)
 
+## [XN Project: Analysis & Visualization of the Equipment Utilization Using PowerBI](https://github.com/fatishi/Fatima-s_Portfolio/tree/main/XN%20Project)
+
+- **Dashboards & Presentation (group):** [`EDA_PowerBI_Capstone_FatimaN.pdf`](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/XN%20Project/XN%20Project_PPT_Group10.pdf)
+
+> **DESCRIPTION:**
+
+The experiential learning project sponsored by Simplex Solution is about creating dashboards to be integrated into the construction work management software for large contractors working for gas & electric utilities. This is a group project where I with my teammate (Xiaolu Shen) created dashboard reports and a set of drill-downs to help track and analyze equipment utilization. Most of the equipment is rented, while others are owned. The rent payment depends not on the time the equipment is being turned on (utilization time) but on the total working hours of the crew (billing hours). Therefore, visualizing data using Power BI allows the client to analyze data deeper and discover idle time and inefficiencies. This will help to create a better business strategy to optimize equipment utilization and find cost-saving opportunities. The main question we intended to answer in this analysis is:
+
+> **Q:** *"Do all using equipment actually being utilized?"*
+
+**What we did?**
+* Developed a concept to optimize equipment performance by predicting renting time using Gradient Boosting and Neural Networks.
+* Integrated data from three different files containing over 300,000 records into one and focused only on the overlapping periods.
+* Created Power BI visualization dashboards for construction software to track & evaluate the utilization of 801 rental and owned
+equipment at different construction sites, to identify inefficiently used equipment and idle periods.
+
+> **SKILLS:** 
+
+EDA, Data Cleaning, Data Transformation, Descriptive Analysis, Dashboard Reports, Data Visualization, Utilization Analysis, Recommendations  
+
+> **TECHNOLOGY:**
+
+**Power BI, Excel, Python**
+
+![](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/docs/assets/XN_Project.png)
+
 ## [Market Basket Analysis for Online Retail Industry (Databricks)](https://github.com/fatishi/Market-Basket-Analysis-for-Online-Retail-Industry-by-Using-Databricks)
 
 - **Code file:** [`Final Databricks_ALY6110_GroupEpsilon.pdf`](https://github.com/fatishi/Market-Basket-Analysis-for-Online-Retail-Industry-by-Using-Databricks/blob/main/Using%20Market%20Basket%20Analysis%20to%20Improve%20Product%20Bundle%20Sales%20Strategy%20for%20Online%20Retail%20companies.ipynb)
