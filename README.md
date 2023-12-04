@@ -3,7 +3,12 @@
 Hello! I am Fatima, and welcome to my portfolio! 🚀
 
 ## About Me 🙋🏻‍♀️
-Highly analytical and detail-oriented Master of Analytics graduate with experience in data management, big data, and machine learning. With technical skills in Python, SQL, R, and visualization tools such as Power BI, Tableau, and Qlik. Skilled in Machine Learning models such as Logistic Regression, Linear Regression, SVM, Tree-based models, NLP, KNN, and Neural Network. Proven ability to lead projects, work in a team, and solve problems effectively. Committed to delivering high-quality results and providing value to organizations through data-driven insights. Native in Russian, Kyrgyz and advanced in English, intermediate in Arabic, and Turkish.
+Experienced Data Analyst | Proficient in Python, R, SQL, Power BI, and Tableau | Expertise in Advanced Data Analysis, Predictive Modeling, and Big Data Analytics |
+
+🔍 Collaborated with the Head of Data Analytics at Free Float Media, contributing to automated algorithm development quantifying board members' influence at global companies.
+📊 Analyzed 1 billion+ records for market basket analysis, driving strategic sales insights.
+💡 Master's in Analytics from Northeastern University, GPA: 3.97/4.00.
+🌐 Multilingual - Fluent in Russian, and Kyrgyz; Proficient in English, Arabic, and Turkish.
 
 ## PROJECTS 
 ## [Capstone Project: Predicting the Aftermath of Fraud on Board of Directors in the US (2017-2022)](https://github.com/fatishi/Fatima-s_Portfolio/tree/main/Capstone%20Project)
@@ -133,6 +138,6 @@ records of UK-based online retail companies.
 
 **Skills:** Data Cleaning, Data Analysis, Descriptive Statistics, Visualization, Writing Functions, Feature Engineering, Predictive Modeling, Classification  
 
-**Technology:** R
+**Technology:** R: caret, ggplot2, gridExtra, pROC, psych, dplyr, tidyverse 
 
 ![LR Model fitting on the Training Set](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/Intermediate%20Analytics/LR%20model%20fitting%20on%20the%20Train%20Set.png)
