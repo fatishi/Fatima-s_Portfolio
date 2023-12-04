@@ -119,3 +119,20 @@ records of UK-based online retail companies.
 
 ![](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/Data%20Visualization/Tableau/Bike%20Sharing%20Analysis/images/Bike%20Sharing%20Analysis_Tableau%20Dashboards.jpg)
 
+
+## [Predictive Analysis of Telco Customer Churn using ML Models - R](https://github.com/fatishi/Fatima-s_Portfolio/tree/main/Intermediate%20Analytics)
+
+- **Code file:** [`Final R Script_ALY6015_Alpha.R`](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/Intermediate%20Analytics/Final%20R%20Script_ALY6015_Alpha.R)
+- **Project Report:** [Final Report_ALY6015_Alpha.pdf`](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/Intermediate%20Analytics/Final%20Report_ALY6015_Alpha.pdf)
+- **Presentation Slides:** [`Final PPT_ALY6015_Alpha.pdf`](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/Intermediate%20Analytics/Final%20PPT_ALY6015_Alpha.pdf)
+
+**Description:** A group project that I did with my teammates based on the data obtained from Kaggle. The goal of the project is to help Telecom Company to predict the churn rate of the telecom company, and understand the causes that lead to it. This is done by building 2 supervised machine learning models: Logistic Regression, and LASSO Regularization Regression. The main question we intended to answer in this analysis is *“What are significant predictor variables that affect the Telco customers churn rate?”*. 
+* Performed EDA, cleaning of data, and normalizing it for a more accurate analysis
+* Pre-processed data: reducing feature cardinality, feature engineering, splitting, and preparing it for ML model creation
+* Built 2 ML models: logistic regression, and LASSO Regularization Regression.
+
+**Skills:** Data Cleaning, Data Analysis, Descriptive Statistics, Visualization, Writing Functions, Feature Engineering, Predictive Modeling, Classification  
+
+**Technology:** R
+
+![LR Model fitting on the Training Set](https://github.com/fatishi/Fatima-s_Portfolio/blob/main/Intermediate%20Analytics/LR%20model%20fitting%20on%20the%20Train%20Set.png)
