@@ -6,8 +6,11 @@ Hello! I am Fatima, and welcome to my portfolio! 🚀
 Experienced Data Analyst | Proficient in Python, R, SQL, Power BI, and Tableau | Expertise in Advanced Data Analysis, Predictive Modeling, and Big Data Analytics |
 
 🔍 Collaborated with the Head of Data Analytics at Free Float Media, contributing to automated algorithm development quantifying board members' influence at global companies.
+
 📊 Analyzed 1 billion+ records for market basket analysis, driving strategic sales insights.
+
 💡 Master's in Analytics from Northeastern University, GPA: 3.97/4.00.
+
 🌐 Multilingual - Fluent in Russian, and Kyrgyz; Proficient in English, Arabic, and Turkish.
 
 ## PROJECTS 
